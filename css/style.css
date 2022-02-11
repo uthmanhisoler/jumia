@@ -1,0 +1,121 @@
+body {
+  margin 0;
+
+}
+
+.label {
+  align-items: center;
+  justify-content: center;
+}
+
+.container{
+  padding: 20px 40px;
+
+}
+
+.jumia-pic {
+ padding-left: 45px;
+}
+
+.container h1{
+  margin-bottom: 30px;
+}
+
+.container a {
+  text-decoration: none;
+
+}
+
+.form-submit {
+
+
+}
+
+.submit {
+  border: none;
+  border-bottom: 0.1px solid #3a3a3a;
+  margin-bottom: 22px;
+  border-radius: 3px;
+  outline: none;
+  padding: 0px 0px 5px 5px;
+  display: grid;
+}
+
+.forgot {
+  float: none;
+  right: 10%;
+
+}
+
+.fb {
+  background-color: #3B5998;
+  color: white;
+}
+
+.login-btn {
+  width: 15%;
+background-color: orange;
+color: #ffffff;
+font-weight: 600;
+padding: 5px 10px;
+margin: 10px 0px;
+line-height: 20px;
+border: none;
+border-radius: 1px;
+}
+
+
+.or {
+  display: flex;
+  margin: 20px 0;
+}
+
+.or span {
+  display: block;
+  background-color: #dbdbdb;
+  height: 1px;
+  width: 5%;
+}
+
+.or p {
+  margin: 0 0.5%;
+  text-transform: uppercase;
+  font-weight: 600;
+  font-size: 12px;
+  color: black
+}
+
+.fb-btn {
+  width: 15%;
+background-color: #3D69C4;
+color: #ffffff;
+font-weight: 600;
+padding: 5px 10px;
+margin: 10px 0px;
+line-height: 20px;
+border: none;
+border-radius: 1px;
+}
+
+.jumia {
+  padding-left: 50px;
+}
+
+.create a {
+ color: orange;
+  padding-left: 20px;
+  width: 15%;
+}
+
+.field-icon {
+  float: right;
+  margin-left: -25px;
+  margin-top: -25px;
+  position: relative;
+  z-index: 2;
+}
+
+.container {
+  padding-top: 50px;
+  margin: auto;
+}
